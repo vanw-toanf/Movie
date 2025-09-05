@@ -1,0 +1,15 @@
+numpy<2
+scipy==1.13.1
+scikit-learn==1.5
+scikit-surprise==1.1.3
+pandas
+firebase-admin
+matplotlib
+seaborn
+numpy
+fastapi
+uvicorn
+requests
+streamlit
+python-dotenv
+python-multipart
